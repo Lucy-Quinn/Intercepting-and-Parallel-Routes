@@ -9,7 +9,7 @@ export default function Home() {
     return( 
         <>
        <div>I am the homepage</div>
-            <button style={{ background: "blue" }} onClick={handleOnClick}>
+            <button style={{ background: "green" }} onClick={handleOnClick}>
                 Open modal
             </button>
         </>

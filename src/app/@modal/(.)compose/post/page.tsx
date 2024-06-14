@@ -9,7 +9,7 @@ export default function ComposePost() {
  return( 
    <>
       <div>I am the modal</div>
-      <button style={{background: 'green'}}onClick={handleClose}>Close</button>
+      <button style={{background: 'red'}}onClick={handleClose}>Close</button>
    </>
  )
 }
